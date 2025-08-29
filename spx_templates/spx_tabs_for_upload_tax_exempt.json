@@ -1,0 +1,133 @@
+{
+    "signerAttachmentTabs": [
+        {
+            "agreementAttributeLocked": "false",
+            "documentId": "1",
+            "pageNumber": "1",
+            "recipientId": "82834746",
+            "tabId": "e33709e7-e594-43d1-be4d-b5783af1277e",
+            "tabType": "signerattachment",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "tooltip": "SignerAttachment",
+            "xPosition": "175",
+            "yPosition": "173",
+            "name": "SignerAttachment",
+            "optional": "false",
+            "scaleValue": "1",
+            "tabLabel": "Exempt Attachment"
+        }
+    ],
+    "textTabs": [
+        {
+            "documentId": "1",
+            "height": "49",
+            "pageNumber": "1",
+            "recipientId": "82834746",
+            "tabId": "6a10fb31-5af6-4b65-a174-fe35bf136482",
+            "tabType": "text",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "width": "381",
+            "xPosition": "244",
+            "yPosition": "12",
+            "bold": "true",
+            "font": "lucidaconsole",
+            "fontColor": "black",
+            "fontSize": "size10",
+            "italic": "false",
+            "localePolicy": {},
+            "tabLabel": "Title",
+            "underline": "false",
+            "concealValueOnDocument": "false",
+            "disableAutoSize": "false",
+            "locked": "true",
+            "maxLength": "4000",
+            "originalValue": "Cust#: 20773, Branch: 83, Name: Test Contracting",
+            "required": "false",
+            "value": "Cust#: 20773, Branch: 83, Name: Test Contracting",
+            "requireAll": "false",
+            "requireInitialOnSharedChange": "false",
+            "shared": "false",
+            "validationMessage": "",
+            "validationPattern": ""
+        }
+    ], 
+    "noteTabs": [
+        {
+            "agreementAttributeLocked": "false",
+            "documentId": "1",
+            "height": "45",
+            "pageNumber": "1",
+            "recipientId": "82834746",
+            "tabId": "9092e7f3-97ad-4cb6-b1df-99131152986b",
+            "tabType": "note",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "width": "355",
+            "xPosition": "212",
+            "yPosition": "171",
+            "bold": "false",
+            "font": "lucidaconsole",
+            "fontColor": "black",
+            "fontSize": "size9",
+            "italic": "false",
+            "localePolicy": {},
+            "tabLabel": "Tax Exempt Note",
+            "underline": "false",
+            "name": "",
+            "shared": "false",
+            "value": "Please be sure to attached all documents for tax exemption. You can add multiple files per state if needed. Please use PDF or Word Documents. Please Note: You will not be exempt until approved."
+        }
+    ],
+    "checkboxTabs": [
+        {
+            "documentId": "1",
+            "height": "0",
+            "pageNumber": "1",
+            "recipientId": "82834746",
+            "tabGroupLabels": [
+                "Checkbox Group 9e13b653-94a8-45ba-ba68-b7bff003a561"
+            ],
+            "tabId": "f891d951-051f-46e7-9fdf-f6f898c66e2b",
+            "tabType": "checkbox",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "width": "0",
+            "xPosition": "99",
+            "yPosition": "196",
+            "locked": "true",
+            "required": "false",
+            "bold": "false",
+            "font": "lucidaconsole",
+            "fontColor": "black",
+            "fontSize": "size9",
+            "italic": "false",
+            "name": "",
+            "requireInitialOnSharedChange": "false",
+            "selected": "true",
+            "selectedOriginal": "true",
+            "shared": "false",
+            "tabLabel": "Tax Exempt",
+            "underline": "false"
+        }
+    ],
+    "tabGroups": [
+        {
+            "documentId": "1",
+            "pageNumber": "1",
+            "recipientId": "82834746",
+            "tabId": "647a945c-e0ed-433d-811d-9bba0d1d88d0",
+            "tabType": "tabgroup",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "xPosition": "0",
+            "yPosition": "0",
+            "groupLabel": "Checkbox Group 9e13b653-94a8-45ba-ba68-b7bff003a561",
+            "groupRule": "SelectAtLeast",
+            "maximumAllowed": "1",
+            "minimumRequired": "0",
+            "tabScope": "Document"
+        }
+    ]
+}

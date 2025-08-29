@@ -1,0 +1,127 @@
+{
+    "signerAttachmentTabs": [
+        {
+            "name": "SignerAttachment",
+            "tabLabel": "Exempt Attachment",
+            "scaleValue": "1",
+            "optional": "false",
+            "documentId": "1",
+            "recipientId": "82834746",
+            "pageNumber": "1",
+            "xPosition": "175",
+            "yPosition": "173",
+            "tabId": "42a77838-597b-4cfe-8480-654e32818972",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "tabType": "signerattachment",
+            "tooltip": "SignerAttachment",
+            "agreementAttributeLocked": "false"
+        }
+    ],
+    "textTabs": [
+        {
+            "validationPattern": "",
+            "validationMessage": "",
+            "shared": "false",
+            "requireInitialOnSharedChange": "false",
+            "requireAll": "false",
+            "value": "Cust#: 20773, Branch: 83, Name: Test Contracting",
+            "originalValue": "Cust#: 20773, Branch: 83, Name: Test Contracting",
+            "required": "false",
+            "locked": "true",
+            "concealValueOnDocument": "false",
+            "disableAutoSize": "false",
+            "maxLength": "4000",
+            "tabLabel": "Title",
+            "font": "lucidaconsole",
+            "bold": "true",
+            "italic": "false",
+            "underline": "false",
+            "fontColor": "black",
+            "fontSize": "size10",
+            "localePolicy": {},
+            "documentId": "1",
+            "recipientId": "82834746",
+            "pageNumber": "1",
+            "xPosition": "244",
+            "yPosition": "12",
+            "width": "381",
+            "height": "49",
+            "tabId": "6db1a7df-cd07-4e7d-a8c5-54d23eae22b9",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "tabType": "text"
+        }
+    ],
+    "noteTabs": [
+        {
+            "shared": "false",
+            "value": "Please be sure to attached all documents for tax exemption. You can add multiple files per state if needed. Please use PDF or Word Documents. Please Note: You will not be exempt until approved.",
+            "name": "",
+            "tabLabel": "Tax Exempt Note",
+            "font": "lucidaconsole",
+            "fontColor": "black",
+            "fontSize": "size9",
+            "localePolicy": {},
+            "documentId": "1",
+            "recipientId": "82834746",
+            "pageNumber": "1",
+            "xPosition": "212",
+            "yPosition": "171",
+            "width": "355",
+            "height": "45",
+            "tabId": "1d479aea-762e-4ab3-bd12-cd95da5f09e8",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "tabType": "note",
+            "agreementAttributeLocked": "false"
+        }
+    ],
+    "checkboxTabs": [
+        {
+            "name": "",
+            "tabLabel": "Tax Exempt",
+            "selected": "true",
+            "selectedOriginal": "true",
+            "shared": "false",
+            "requireInitialOnSharedChange": "false",
+            "font": "lucidaconsole",
+            "fontColor": "black",
+            "fontSize": "size9",
+            "required": "false",
+            "locked": "true",
+            "documentId": "1",
+            "recipientId": "82834746",
+            "pageNumber": "1",
+            "xPosition": "99",
+            "yPosition": "196",
+            "width": "0",
+            "height": "0",
+            "tabId": "3883d444-3475-4bda-b2fc-2b2bfc8d8141",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "tabType": "checkbox",
+            "tabGroupLabels": [
+                "Checkbox Group 9e13b653-94a8-45ba-ba68-b7bff003a561"
+            ]
+        }
+    ],
+    "tabGroups": [
+        {
+            "groupLabel": "Checkbox Group 9e13b653-94a8-45ba-ba68-b7bff003a561",
+            "minimumRequired": "0",
+            "maximumAllowed": "1",
+            "groupRule": "SelectAtLeast",
+            "tabScope": "Document",
+            "documentId": "1",
+            "recipientId": "82834746",
+            "pageNumber": "1",
+            "xPosition": "0",
+            "yPosition": "0",
+            "tabId": "c864c16d-4508-414e-9d96-823d32824820",
+            "templateLocked": "false",
+            "templateRequired": "false",
+            "tabType": "tabgroup"
+        }
+    ]
+}

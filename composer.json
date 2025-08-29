@@ -1,0 +1,6 @@
+{
+    "require": {
+        "docusign/esign-client": "^6.9",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
