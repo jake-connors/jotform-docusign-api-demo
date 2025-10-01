@@ -1,9 +1,11 @@
 # Customer Registration & Credit Application API
 
 > ⚠️ **Disclaimer**:  
-> This repository is a demo presentation of my solo developed REST API at F.W. Webb.
+> This repository is a demo presentation of one of my REST API projects at F.W. Webb.
 > It is **not intended for direct deployment** — certain internal classes and URLs have been removed or stubbed.  
-> Some components (ERP/CRM integrations, internal OAuth, etc.) are specific to F.W. Webb infrastructure.  
+> Some components (ERP/CRM integrations, internal OAuth, etc.) are specific to F.W. Webb infrastructure.
+
+Solo developed by **Jacob Connors**
 
 ## Overview
 
